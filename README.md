@@ -79,6 +79,10 @@ When learning CS there are some useful sites you must know to get always informe
 - [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
 - [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 
+## Bootstrap Reference
+- [GetBootstrap](https://getbootstrap.com) : official Bootstrap documentation
+- [Bootstrapmade](https://bootstrapmade.com) Free designs to bootstrap your next project
+
 ## General Coding advice
 - [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329)
 - [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer)
